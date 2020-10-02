@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+td{
+	padding-left: 20;
+}
+
+th{
+	padding-top: 20;
+	padding-left: 20;
+}
