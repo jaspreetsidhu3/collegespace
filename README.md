@@ -1,9 +1,5 @@
-
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  
    <img src="https://img.icons8.com/dusk/64/000000/student-center.png"/>
   </a>
 
@@ -20,10 +16,10 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="Screenshot/home.png"  width="800" height="500" />
 
 CollegeSpace is the Academic Portal with an aim to provide a holistic solution to all student needs.
 
