@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`) VALUES
-(1, 'jaspreetsidhu3may@gmail.com', '12345678');
+(1, 'test@gmail.com', '12345678');
 
 -- --------------------------------------------------------
 
@@ -100,7 +100,7 @@ CREATE TABLE IF NOT EXISTS `notice` (
 
 INSERT INTO `notice` (`id`, `post_by`, `title`, `description`) VALUES
 (1, 'admin', 'fees pending', 'pay fees before 28 oct'),
-(3, 'jaspreetsidhu3may@gmail.com', 'send fees slip', 'who have submitted their fees send their fees slip to their respected class CR');
+(3, 'test@gmail.com', 'send fees slip', 'who have submitted their fees send their fees slip to their respected class CR');
 
 -- --------------------------------------------------------
 
@@ -144,7 +144,7 @@ CREATE TABLE IF NOT EXISTS `top_contributor` (
 
 INSERT INTO `top_contributor` (`id`, `username`) VALUES
 (1, 'Jaspreet Singh'),
-(2, 'Surjit Kaur');
+(2, 'Adam');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
