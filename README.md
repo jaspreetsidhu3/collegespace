@@ -66,7 +66,7 @@ XAMPP or LAMP server
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Screenshots
 
 * Notes page
 
